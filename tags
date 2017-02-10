@@ -1,0 +1,28 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+==	lib/LinkedList.rb	/^    def ==(v)$/;"	f	class:LinkedList.Node
+==	lib/Node.rb	/^  def ==(v)$/;"	f	class:Node
+LinkedList	lib/LinkedList.rb	/^class LinkedList$/;"	c
+Node	lib/LinkedList.rb	/^  class Node$/;"	c	class:LinkedList
+Node	lib/Node.rb	/^class Node$/;"	c
+[]	lib/LinkedList.rb	/^  def [](i)$/;"	f	class:LinkedList
+append	lib/LinkedList.rb	/^  def append(node_value)$/;"	f	class:LinkedList
+contains?	lib/LinkedList.rb	/^  def contains?(v)$/;"	f	class:LinkedList
+each	lib/LinkedList.rb	/^  def each$/;"	f	class:LinkedList
+empty?	lib/LinkedList.rb	/^    def empty?$/;"	f	class:LinkedList.Node
+empty?	lib/LinkedList.rb	/^  def empty?$/;"	f	class:LinkedList
+empty?	lib/Node.rb	/^  def empty?$/;"	f	class:Node
+find	lib/LinkedList.rb	/^  def find(v)$/;"	f	class:LinkedList
+initialize	lib/LinkedList.rb	/^    def initialize(value=nil, next_node=nil)$/;"	f	class:LinkedList.Node
+initialize	lib/LinkedList.rb	/^  def initialize(*values)$/;"	f	class:LinkedList
+initialize	lib/Node.rb	/^  def initialize(value=nil, next_node=nil)$/;"	f	class:Node
+inspect	lib/LinkedList.rb	/^    def inspect$/;"	f	class:LinkedList.Node
+inspect	lib/Node.rb	/^  def inspect$/;"	f	class:Node
+pop	lib/LinkedList.rb	/^  def pop$/;"	f	class:LinkedList
+prepend	lib/LinkedList.rb	/^  def prepend(node_value)$/;"	f	class:LinkedList
+to_s	lib/LinkedList.rb	/^    def to_s$/;"	f	class:LinkedList.Node
+to_s	lib/Node.rb	/^  def to_s$/;"	f	class:Node
